@@ -1,5 +1,7 @@
 # flaskrestapi
 
+Its a Simple Login and Register Functionality by using Flask Restapis in the Backend
+
 Run The Flask App by moving in to flaskcrud directory and start the flask server
 
 >python app.py
